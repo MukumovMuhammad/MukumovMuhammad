@@ -22,7 +22,7 @@ $ echo "I code cosmic apps and games"
 I code cosmic apps and games
 $ echo "Big fan of epic worlds like *The Lord of the Rings*, *Star Wars*, *Harry Potter*, and *Attack on Titan*."
 Big fan of epic worlds like *The Lord of the Rings*, *Star Wars*, *Harry Potter*, and *Attack on Titan*.
-$ echo "Yeah, I just love diving into all kinds of universes!"
+$ echo "Yeah, I just love diving into all kinds of universes! :)"
 Yeah, I just love diving into all kinds of universes!
 $ languages --spoken
 - Tajik
