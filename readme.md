@@ -158,7 +158,7 @@ while (alive) {
 
 - 🔧 By day I’m leveling up as an **Android Developer** (Kotlin, Jetpack, XML, Firebase) (also started learning FAST API recently).  
 - 🎮 Sometimes I like to play games—I don’t do it often, but when I’m bored, I dive into RPGs like **Elden Ring**, **The Witcher**, **Dark Souls**, and indie gems like **Little Nightmares** and **Hollow Knight** (and OMG 🤯! Silksong! is released 😁🤗).
-- 🕹️ When I’m done playing games, I build them in **Godot Engine** just for fun!  
+- 🕹️ When I’m done playing games, I build them in **Godot Engine** just for fun! (Of course. Not often. Considering how busy I am lately )  
   
 
 ---
