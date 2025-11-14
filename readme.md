@@ -126,14 +126,6 @@ I don’t have WeChat, Twitter (oh sorry, I mean X), or Instagram!
 Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukumov_muhammad/), but I don’t use it much so don’t expect me to answer there. 😅
 
 
-<!-- 🌌----------------------------------------🌌 -->
-
-## 🎉 Fun Facts & Easter Eggs
-
-> *“All we have to decide is what to do with the time that is given us.”*  
-> — Gandalf the ~~Grey~~ **White**  
-> Yeahhh, this phrase indeed has a deep meaning if you think about it.
-
 
 ```js
 while (alive) {
