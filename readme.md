@@ -1,210 +1,62 @@
+# Hi there, I'm Muhammad Mukumov 👋
 
-<!-- 🌌----------------------------------------🌌 -->
-<p align="center">
-  <img src="https://c.tenor.com/U4jULxsv6L8AAAAC/space-cat.gif" width="200" alt="Space Cat" />
+An adaptive and growth-oriented software engineer driven by a passion for continuous improvement and building intelligent systems. Transitioning solid foundations in mobile architecture into the cutting edge of Artificial Intelligence.
+
+- 🧠 Currently focused on **Deep Learning** and autonomous **AI Agents**.
+- 📱 Experienced in native **Android Development** (Kotlin & Modern Jetpack Stack).
+- ⚙️ Passionate about automation, efficient backends, and continuous learning.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 AI, Data & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/AI_Agents-00A699?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&width=650&lines=🚀+Welcome!+to+MM's+Galactic+Hub...;👨‍🚀+Android+Developer+in+Kotlin" alt="Typing SVG" />
+### 🔹 Mobile & Game Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot Engine"/>
 </p>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNyeWprdDRjbHB6cG11M2xxZGpvdmdlODR5eHFlZDR3ZXJkNTcxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" alt="Starfield" />
-</p>
-
-<!-- 🌌----------------------------------------🌌 -->
-
-## 🔮 Who Am I?
-
-```bash
-$ alias mm="MukumovMuhammad"
-$ echo "I code cosmic apps and games"
-I code cosmic apps and games
-$ echo "Big fan of epic worlds like *The Lord of the Rings*, *Star Wars*, *Harry Potter*, and *Attack on Titan*."
-Big fan of epic worlds like *The Lord of the Rings*, *Star Wars*, *Harry Potter*, and *Attack on Titan*.
-$ echo "Yeah, I just love diving into all kinds of universes! :)"
-Yeah, I just love diving into all kinds of universes!
-$ languages --spoken
-- Tajik
-- Russian
-- English
-- Korean
-$ tools --native
-- Kotlin  C++  Python  JS  GDScript
-```
-
-<!-- 🌌----------------------------------------🌌 -->
-
-## 🌠 Tech Constellation
-<div align="center">
-
-<!-- Core Languages & Tools -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<!-- Android Specific -->
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-009688?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-008080?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-<!-- 🌌----------------------------------------🌌 -->
-## 🚀 My Status
-
-<div align="center">
-
-
-<p align="center"><strong><em>
-    Catch up to see it, otherwise this snake will devour all my activity...  
-    Wait, what? It is eating everything?!?!?! AAAAAAAAAAAAaaaaaaaaaaaaaaa!  
-    Oh, stop – the real stats are down there. Everything is fine, don’t panic! 😊
-  </em></strong></p>
-  <!-- Contribution Graph -->
-  <img
-    src="https://raw.githubusercontent.com/MukumovMuhammad/MukumovMuhammad/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-    width="800"
-  />
-<br/>
-  <!-- GitHub Stats -->
-  <p>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MukumovMuhammad&theme=radical&hide_border=true" 
-      alt="GitHub Streak" 
-      width="45%" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukumovMuhammad&layout=compact&theme=radical&hide_border=true" 
-      alt="Top Languages" 
-      width="45%"
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=MukumovMuhammad&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-      alt="Overall GitHub Stats" 
-      width="60%" 
-    />
-  </p>
-
-</div>
-
-
-
-
-<!-- 🌌----------------------------------------🌌 -->
-
-## 📧 Contact Frequencies
-<p align="center">
-  <a href="mailto:muhammad.bw.03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/MMV_bw"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/MukumovMuhammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-mukumov-067a37266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+### 🔹 Languages & Core Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ---
 
-What? Searching for my any other social sites? Well, I’m sorry I don't have anything else!  
-I don’t have WeChat, Twitter (oh sorry, I mean X), or Instagram!  
-Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukumov_muhammad/), but I don’t use it much so don’t expect me to answer there. 😅
-
-
-
-```js
-while (alive) {
- build();
- commit();
- push();
- dream();
-}
-```
+## 🌍 Spoken Languages
+🌐 **Tajik** (Native) | **Russian** | **English** | **Korean**
 
 ---
 
-### 🌍 Worlds I Wander
-
-- 💫 I’m into **every** epic saga—Middle-earth, Hogwarts, a galaxy far, far away… you name it.  
-- 🎥 Movies & Animations are my jam: Disney, DreamWorks, anime—and K-dramas next to level up my Korean.
-- 🧙‍♂️ I’m *still* waiting for my **Hogwarts letter**!!! Yeah, I am!! 💌🪄📚
-
----
-
-### 📱 Code & Play
-
-- 🔧 By day I’m leveling up as an **Android Developer** (Kotlin, Jetpack, XML, Firebase) (also started learning FAST API recently).  
-- 🎮 Sometimes I like to play games—I don’t do it often, but when I’m bored, I dive into RPGs like **Elden Ring**, **The Witcher**, **Dark Souls**, and indie gems like **Little Nightmares** and **Hollow Knight** (and OMG 🤯! Silksong! is released 😁🤗).
-- 🕹️ When I’m done playing games, I build them in **Godot Engine** just for fun! (Of course. Not often. Considering how busy I am lately )  
-  
-
----
-
-### 🎧 My Soundtrack
-
-- 🎵 I don’t usually listen to music—**AudioBooks** are my go-to on drives or jogs.
-- 🎧 Well, currently I’m listening to Riyria Revelations — such an amazing story!
- 
-
----
-
-### ⚽ & 🌐 Off-Topic Tidbits
-
-- ⚽ Not fun of football, but I’ll cheer if you rope me in!  
-- 🌍 Well, I'm into geography and learning about different cultures — thanks to the Geography Now channel, I’ve learned a lot about other countries and nationalities!
-- 🪐 Obsessed with space & astronomy—my side projects often orbit cosmic themes.
-- ⚔️ I’m fascinated by **sword fighting** and hope to master it someday with real lessons! 
-
----
-
-### 🎨 Strange Facts About Me 🤔 (I Don't Know Why I'm Telling Them 😂)
-
-- 💙 My favorite color: **Light Blue**  
-- 🌩️ My favorite weather is when it rains with thunder! — Wow, that’s terrifying... but also so fascinating and refreshing! 😱🌧️⚡
-- 🤓 In case you’re wondering — I’m a **nerd** 😅 Not a total one, but definitely more nerd than geek 🧠💻
-- 🔥 I don't know why I'm putting this here, but my favorite character from *Avatar: The Last Airbender* is **Zuko** — yep, **Zuko the Honor Seeker**)) 🫡🔥
-- ☕ You’ve heard lots of good/strange/weird/unnecessary facts about me, ha? Well, here’s another weird one: I love drinking coffee!!! (Aahhh I guess it wasn’t strange -_- anyway **COFFEEE!!!**)
-
----
-
-
-
-
-
-<!-- 🌌----------------------------------------🌌 -->
-
-<!--## 🔗 More Galactic Widgets
-<div align="center"> -->
-  <!-- Contribution Snake (raw SVG) -->
- 
-
-  <!-- Trophy Cup 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MukumovMuhammad&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"
-    alt="Trophy Cup"
-    width="1000"
-  />
-</div>
--->
-
-<!-- 🌌----------------------------------------🌌 -->
-
+## 📊 GitHub Performance
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukumovMuhammad&theme=radical&hide_border=true" width="48%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukumovMuhammad&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukumovMuhammad&show_icons=true&count_private=true&theme=radical&hide_border=true" width="70%" alt="Overall Stats"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+<p align="left">
+  <a href="mailto:muhammad.bw.03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/MMV_bw"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-mukumov-067a37266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
