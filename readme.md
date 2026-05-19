@@ -42,17 +42,6 @@ An adaptive and growth-oriented software engineer driven by a passion for contin
 
 ---
 
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukumovMuhammad&theme=radical&hide_border=true" width="48%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukumovMuhammad&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukumovMuhammad&show_icons=true&count_private=true&theme=radical&hide_border=true" width="70%" alt="Overall Stats"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 <p align="left">
